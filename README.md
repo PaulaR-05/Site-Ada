@@ -1,2 +1,2 @@
 # Site Ada
- Site Ada realizado no curso programaria
+ Entrega do projeto sobre mulheres na tecnologia realizado no curso Programaria.
